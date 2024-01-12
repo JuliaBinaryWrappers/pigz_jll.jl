@@ -1,143 +1,143 @@
 [[pigz]]
 arch = "aarch64"
-git-tree-sha1 = "2523fc0d123bc97107e66604eaad060e73bdc8c6"
+git-tree-sha1 = "3f988e01b14e2f8f51a1d8e277b03fcbc0d86f70"
 os = "macos"
 
     [[pigz.download]]
-    sha256 = "cb7bd29e445cffba9a0aad4590f935bd21a46fdc0df84411e7523f84579de6f0"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "f63d0cbf242b802df1eeffc1e2f2cb92dced028cdf2e04bd04c2d0360f5ac0c6"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.aarch64-apple-darwin.tar.gz"
 [[pigz]]
 arch = "aarch64"
-git-tree-sha1 = "60a4bfe6310023b9681c99fe8e1838436c1cb60e"
+git-tree-sha1 = "449c7e8fb6083c9ee4d5591dcb4f6f1209d6b7e3"
 libc = "glibc"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "3bf4474936fda7cb6183e242e009a957a8a3d3bbeaab4969612767a0351c60a9"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "825dc3ee001f825681cb4638b4777cff8f51aed9ac01f1a93dc2c2f4252cf5a3"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.aarch64-linux-gnu.tar.gz"
 [[pigz]]
 arch = "aarch64"
-git-tree-sha1 = "ecba35ff4b0dc2e1dbba9ba14b8806bc1ecee5ae"
+git-tree-sha1 = "6ed4fcf4efb830e7349a57b80f2b1dc84ea4e3eb"
 libc = "musl"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "a0ee08832c055bff1861b791b3c4636e4fb179d24ac16113d49ecfc819670a05"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.aarch64-linux-musl.tar.gz"
+    sha256 = "86884ac35006867c857bfee17bc2c701e19155bed4b7bea5f90580ace601ac4d"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.aarch64-linux-musl.tar.gz"
 [[pigz]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "ed20533872037ce26c03375d8d942f1eb616377d"
+git-tree-sha1 = "a1bf3e1c9f4c1319caa899a206c08d867fc683c5"
 libc = "glibc"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "9004ed8a18bf1d4fb1369deb9eb8b47fac6dac7a44d5dba165b5ada5d8ab1896"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "e1f19f96c8cec920e99c993e3474a5fb78a5e8399feea6e09fae293accf313d0"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.armv6l-linux-gnueabihf.tar.gz"
 [[pigz]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "2bbad5d3f7f38543b0aaa0ac35555aa468d718e5"
+git-tree-sha1 = "e0b50c2fba2043499699256c0deba5397379c726"
 libc = "musl"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "035225eae3972bb379bf37587986732849805f43b392e0e18f9502b8b2205416"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "20cccd2738a3f557aca9b4ec5203bb83e8582eaf90353d2e35c1ec87af0660bc"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.armv6l-linux-musleabihf.tar.gz"
 [[pigz]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5b2eeed51f52aebe91a5af123c34cc3623b8fb49"
+git-tree-sha1 = "d15a35fb35be9c217ba7decaac57387fad542f54"
 libc = "glibc"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "45a183ca9787f64aed634381b8be337582f97273cbde0f7f470a4626764dc791"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "4f411c43a021364ef7b94e6284c5e76ca30680088f9348a089a1d07a90d9873c"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.armv7l-linux-gnueabihf.tar.gz"
 [[pigz]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "03e7798a35d003ff36f47b12a96601255a8b30c2"
+git-tree-sha1 = "88b6b9b56669665844ca819b570b703557e9d06a"
 libc = "musl"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "fc051aa13019f8e055f39bb896110c58f0975fefab656047e0ffbc1198c28474"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "a9c79028c299671de098254b62e344f0f85f4640b392ad5ef9f7939c7629a012"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.armv7l-linux-musleabihf.tar.gz"
 [[pigz]]
 arch = "i686"
-git-tree-sha1 = "1c8fd75633a094b30af8631e6ecce05efa6cf7b5"
+git-tree-sha1 = "40d1809a076a5593d13d9f200e6723e715ea5861"
 libc = "glibc"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "1d79257a558432552fa87dd3b19402807fd4b7040d0baa971a85265c6ae6c562"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.i686-linux-gnu.tar.gz"
+    sha256 = "667afc28a80b3cc25891ccde842bf150f107742c178843725fe37fc451719a78"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.i686-linux-gnu.tar.gz"
 [[pigz]]
 arch = "i686"
-git-tree-sha1 = "4e53e33b0ca62488578c102fbfa664b1b8f34778"
+git-tree-sha1 = "4d36a0ea3c6bf4bf534a00ae53b85a4dc4074b92"
 libc = "musl"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "90f21e44998ec814d698c9178a9d6e95e03426fc7be3d82ab3646f5c87ec6ffd"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.i686-linux-musl.tar.gz"
+    sha256 = "9edd7fe0e56a00492f0f141fe235a8289bdd88ceb2b7d41155bfb5b1a8b00cc9"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.i686-linux-musl.tar.gz"
 [[pigz]]
 arch = "i686"
-git-tree-sha1 = "73158434f1eeb35e62817f85f91b3d7947a979c9"
+git-tree-sha1 = "ba2f97cc499ecb221ffe6579a72b19205b899633"
 os = "windows"
 
     [[pigz.download]]
-    sha256 = "9d382eac84733e457943f18a147b6d322654fb868f4530816c6b3fea2ea04932"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.i686-w64-mingw32.tar.gz"
+    sha256 = "587d521c221b7950fb8ba6a437a94a3a2c70bc1c32972190d30d2a0f0848bd13"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.i686-w64-mingw32.tar.gz"
 [[pigz]]
 arch = "powerpc64le"
-git-tree-sha1 = "edd0187e9e797cf432d9682e2c72ffbe41348ff6"
+git-tree-sha1 = "ad451a0c30a2cd50e714abf8ccaa9358b9869801"
 libc = "glibc"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "c57ac3aa54325eea7981d982ece158cc1a605c3cb10173b197bfe546c2881e43"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "c65668a7cab2f4abe1f4e5273b0af88b5e776ce64fb66b89b0448929a387d5d4"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.powerpc64le-linux-gnu.tar.gz"
 [[pigz]]
 arch = "x86_64"
-git-tree-sha1 = "49bead70fbf298c619aaae5f85b07078f0dc0bff"
+git-tree-sha1 = "920fcd037e38e574e4e155ff8715395ef1cb127d"
 os = "macos"
 
     [[pigz.download]]
-    sha256 = "4fa805d4572e2be871abcb6e21ef40f7e9a3b0cc555082406787d2f0f5b2a782"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "1bcc9011d76086c05a0e258c58bb0eec9501ea122f6670a804ef26f23b291147"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.x86_64-apple-darwin.tar.gz"
 [[pigz]]
 arch = "x86_64"
-git-tree-sha1 = "48f36f33e49221cd912a7123adcec592598c8a97"
+git-tree-sha1 = "8b394b91c924f9d875352fc725c1533b9189713a"
 libc = "glibc"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "07240afc84ae446962148e15cdfeb27a5ad082b2b66f0334ff70e4cd2231fdbb"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "1f557b89c89ed9da09bb191db17e88af275a597a3e987b6f43312bc92404ec91"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.x86_64-linux-gnu.tar.gz"
 [[pigz]]
 arch = "x86_64"
-git-tree-sha1 = "fa1db1a9cc301d92fe825f5eec7415a25cd246dd"
+git-tree-sha1 = "9724254abc729bd4f1eab17173ba3d9de8cd9a8b"
 libc = "musl"
 os = "linux"
 
     [[pigz.download]]
-    sha256 = "6abc599720150b3d1fa62c1632cdba4f40ee6a72cfbd0667b38f432125669b4c"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.x86_64-linux-musl.tar.gz"
+    sha256 = "754e1b349d0463c0228eb5f0a90bf27b24fb09f15286384d3544cc96fffefe55"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.x86_64-linux-musl.tar.gz"
 [[pigz]]
 arch = "x86_64"
-git-tree-sha1 = "e96686ebad9b4e8b882efa49e60e36e79541af1c"
+git-tree-sha1 = "16159de13a77738ca87d09270ec5ba7682f9acad"
 os = "freebsd"
 
     [[pigz.download]]
-    sha256 = "3dae9dc5293a7bcb935803b7ab1850affec623ceaf69c26d03bc2dda0326745d"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d8182b3fba83b880558fa39660e68e432986b4efdb5ee86a914f5407ba651f7c"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.x86_64-unknown-freebsd.tar.gz"
 [[pigz]]
 arch = "x86_64"
-git-tree-sha1 = "3af3623b0e8a80b669c9cfa74f43dbb209a91d54"
+git-tree-sha1 = "ab6ca22c2ee8f2534a213461b51dce322b47eeed"
 os = "windows"
 
     [[pigz.download]]
-    sha256 = "9b771fc7dc20b832e131aa22af3de9ea54fa283c2e77d19bf7976da67453feee"
-    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.7.0+0/pigz.v2.7.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "befb496eb544c0233082364f5fde1bbeb68867f7f50d998d3b9f982e654e52b7"
+    url = "https://github.com/JuliaBinaryWrappers/pigz_jll.jl/releases/download/pigz-v2.8.0+0/pigz.v2.8.0.x86_64-w64-mingw32.tar.gz"
